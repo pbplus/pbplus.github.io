@@ -5,6 +5,10 @@ body {
     background-color: white;
 }
 
+html{
+    scroll-behaviour: smooth;
+}
+
 header {
     box-shadow: 0 0 10px 0 #2D3142;
     background-color: white;
